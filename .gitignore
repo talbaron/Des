@@ -2,5 +2,6 @@ data/
 cache/
 output/
 *.csv
+*.docx
 .DS_Store
 .ipynb_checkpoints/*
